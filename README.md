@@ -12,7 +12,7 @@ This repository is your ultimate guide to mastering Power BI through 20 real-wor
 ### Project 2: Foods and Beverages Sales Analysis Dashboard
 
 [Foods and Beverages Sales Analysis Dashboard](./Project2/FoodsBeveragesSalesAnalysis.pbix)
-![Foods and Beverages Sales Analysis Dashboard](./Project2/FoodsBeveragesSalesAnalysis.png)
+![Foods and Beverages Sales Analysis Dashboard](./Project2/FoodBeveragesSalesAnalysis.png)
 
 ### Project 3: SBudge vs. Actual Spending Analysis Dashboard
 
