@@ -1,0 +1,1014 @@
+Date,IT Department,Cost Element,Country,Actual
+1/11/2020,Administration,Employee Performance,USA,551
+1/11/2020,Administration,External Labor,USA,"44,790"
+1/11/2020,Administration,Hardware,USA,30
+1/11/2020,Administration,Internal Labor,Germany,"2,037"
+1/11/2020,Administration,Internal Labor,Italy,105
+1/11/2020,Administration,Internal Labor,United Kingdom,"22,382"
+1/11/2020,Administration,Internal Labor,USA,"98,699"
+1/11/2020,Administration,Legal,USA,"1,244"
+1/11/2020,Administration,Moving,USA,"2,653"
+1/11/2020,Administration,Other,USA,"16,248"
+1/11/2020,Administration,Outbound Allocations,United Kingdom,719
+1/11/2020,Administration,Severance,Italy,49
+1/11/2020,Administration,Software,USA,6
+1/11/2020,Administration,Software Maintenance,USA,4
+1/11/2020,Administration,Supplies,USA,46
+1/11/2020,Administration,Telecomm,Italy,97
+1/11/2020,Administration,Telecomm,USA,"1,057"
+1/11/2020,Administration,Travel,USA,"14,253"
+1/11/2020,Architecture,Depreciation,USA,693
+1/11/2020,Architecture,Employee Performance,USA,979
+1/11/2020,Architecture,External Labor,USA,425
+1/11/2020,Architecture,Hardware Maintenance,USA,16
+1/11/2020,Architecture,Internal Labor,USA,"43,526"
+1/11/2020,Architecture,Other,USA,"-1,627"
+1/11/2020,Architecture,Software,USA,11
+1/11/2020,Architecture,Software Maintenance,USA,8
+1/11/2020,Architecture,Supplies,USA,9
+1/11/2020,Architecture,Taxes,USA,44
+1/11/2020,Architecture,Telecomm,USA,289
+1/11/2020,Architecture,Travel,USA,139
+1/11/2020,Business Intelligence,Employee Performance,USA,146
+1/11/2020,Business Intelligence,External Labor,USA,"20,734"
+1/11/2020,Business Intelligence,Hardware,USA,26
+1/11/2020,Business Intelligence,Internal Labor,USA,"52,862"
+1/11/2020,Business Intelligence,Other,USA,8
+1/11/2020,Business Intelligence,Software,USA,79
+1/11/2020,Business Intelligence,Software Maintenance,USA,57
+1/11/2020,Business Intelligence,Supplies,USA,20
+1/11/2020,Business Intelligence,Telecomm,USA,343
+1/11/2020,Core,Employee Performance,USA,73
+1/11/2020,Core,External Labor,USA,"61,859"
+1/11/2020,Core,Hardware,USA,215
+1/11/2020,Core,Internal Labor,USA,"26,707"
+1/11/2020,Core,Other,USA,236
+1/11/2020,Core,Telecomm,USA,275
+1/11/2020,Core,Travel,USA,"2,841"
+1/11/2020,Core Infrastructure,Amortization,Mexico,"1,228"
+1/11/2020,Core Infrastructure,Depreciation,Brazil,"11,642"
+1/11/2020,Core Infrastructure,Depreciation,Canada,"4,969"
+1/11/2020,Core Infrastructure,Depreciation,Mexico,"3,312"
+1/11/2020,Core Infrastructure,Depreciation,New Zealand,"7,716"
+1/11/2020,Core Infrastructure,Depreciation,Russia,15
+1/11/2020,Core Infrastructure,Depreciation,USA,"3,905"
+1/11/2020,Core Infrastructure,Employee Performance,USA,"1,065"
+1/11/2020,Core Infrastructure,External Labor,Brazil,"45,141"
+1/11/2020,Core Infrastructure,External Labor,Canada,"32,516"
+1/11/2020,Core Infrastructure,External Labor,Mexico,"38,978"
+1/11/2020,Core Infrastructure,External Labor,New Zealand,"102,874"
+1/11/2020,Core Infrastructure,External Labor,South Africa,739
+1/11/2020,Core Infrastructure,External Labor,USA,"215,544"
+1/11/2020,Core Infrastructure,Hardware,Brazil,"1,278"
+1/11/2020,Core Infrastructure,Hardware,Mexico,"43,116"
+1/11/2020,Core Infrastructure,Hardware,New Zealand,"131,746"
+1/11/2020,Core Infrastructure,Hardware,South Africa,668
+1/11/2020,Core Infrastructure,Hardware,USA,26
+1/11/2020,Core Infrastructure,Hardware Maintenance,Brazil,"2,086"
+1/11/2020,Core Infrastructure,Hardware Maintenance,Canada,"1,744"
+1/11/2020,Core Infrastructure,Hardware Maintenance,Mexico,"24,474"
+1/11/2020,Core Infrastructure,Inbound Allocations,New Zealand,"10,236"
+1/11/2020,Core Infrastructure,Inbound Allocations,South Africa,"2,062"
+1/11/2020,Core Infrastructure,Internal Labor,Brazil,"9,179"
+1/11/2020,Core Infrastructure,Internal Labor,Mexico,"3,147"
+1/11/2020,Core Infrastructure,Internal Labor,New Zealand,"43,530"
+1/11/2020,Core Infrastructure,Internal Labor,Switzerland,"7,262"
+1/11/2020,Core Infrastructure,Internal Labor,USA,"39,034"
+1/11/2020,Core Infrastructure,Moving,USA,415
+1/11/2020,Core Infrastructure,Other,Brazil,"11,830"
+1/11/2020,Core Infrastructure,Other,Canada,"9,667"
+1/11/2020,Core Infrastructure,Other,Mexico,"12,264"
+1/11/2020,Core Infrastructure,Other,New Zealand,"-28,071"
+1/11/2020,Core Infrastructure,Other,South Africa,29
+1/11/2020,Core Infrastructure,Other,USA,"-6,846"
+1/11/2020,Core Infrastructure,Recognition,New Zealand,321
+1/11/2020,Core Infrastructure,Recognition,USA,351
+1/11/2020,Core Infrastructure,Severance,Brazil,315
+1/11/2020,Core Infrastructure,Severance,Mexico,305
+1/11/2020,Core Infrastructure,Severance,New Zealand,386
+1/11/2020,Core Infrastructure,Software,Canada,469
+1/11/2020,Core Infrastructure,Software,USA,"-58,411"
+1/11/2020,Core Infrastructure,Supplies,Brazil,"2,964"
+1/11/2020,Core Infrastructure,Supplies,Canada,"2,020"
+1/11/2020,Core Infrastructure,Supplies,New Zealand,"2,008"
+1/11/2020,Core Infrastructure,Supplies,USA,325
+1/11/2020,Core Infrastructure,Taxes,Mexico,59
+1/11/2020,Core Infrastructure,Taxes,USA,9
+1/11/2020,Core Infrastructure,Telecomm,Brazil,"1,207"
+1/11/2020,Core Infrastructure,Telecomm,Canada,"1,340"
+1/11/2020,Core Infrastructure,Telecomm,Mexico,"1,800"
+1/11/2020,Core Infrastructure,Telecomm,New Zealand,"32,565"
+1/11/2020,Core Infrastructure,Telecomm,South Africa,"3,579"
+1/11/2020,Core Infrastructure,Telecomm,Switzerland,173
+1/11/2020,Core Infrastructure,Telecomm,USA,772
+1/11/2020,Core Infrastructure,Travel,Brazil,"2,379"
+1/11/2020,Core Infrastructure,Travel,Mexico,"1,308"
+1/11/2020,Core Infrastructure,Travel,New Zealand,"-1,838"
+1/11/2020,Core Infrastructure,Travel,Switzerland,"5,434"
+1/11/2020,Core Infrastructure,Travel,USA,706
+1/11/2020,Core Infrastructure,Vehicles,Mexico,19
+1/11/2020,Core Infrastructure,Vehicles,New Zealand,56
+1/11/2020,Core Infrastructure,Vehicles,Switzerland,52
+1/11/2020,Data Centers,Amortization,USA,176
+1/11/2020,Data Centers,CAPEX,USA,146
+1/11/2020,Data Centers,Depreciation,Ireland,633
+1/11/2020,Data Centers,Depreciation,United Kingdom,"20,312"
+1/11/2020,Data Centers,Depreciation,USA,"255,713"
+1/11/2020,Data Centers,Employee Performance,USA,817
+1/11/2020,Data Centers,External Labor,Germany,"6,351"
+1/11/2020,Data Centers,External Labor,United Kingdom,902
+1/11/2020,Data Centers,External Labor,USA,"414,881"
+1/11/2020,Data Centers,Hardware,United Kingdom,"-50,120"
+1/11/2020,Data Centers,Hardware,USA,"39,364"
+1/11/2020,Data Centers,Hardware Maintenance,United Kingdom,"11,118"
+1/11/2020,Data Centers,Hardware Maintenance,USA,"46,948"
+1/11/2020,Data Centers,Internal Labor,Austria,"3,926"
+1/11/2020,Data Centers,Internal Labor,Germany,"9,451"
+1/11/2020,Data Centers,Internal Labor,Netherlands,"4,050"
+1/11/2020,Data Centers,Internal Labor,United Kingdom,"14,677"
+1/11/2020,Data Centers,Internal Labor,USA,"129,267"
+1/11/2020,Data Centers,Other,Austria,44
+1/11/2020,Data Centers,Other,Netherlands,5
+1/11/2020,Data Centers,Other,United Kingdom,638
+1/11/2020,Data Centers,Other,USA,69
+1/11/2020,Data Centers,Project Expenses,Spain,"18,499"
+1/11/2020,Data Centers,Project Expenses,United Kingdom,"-5,750"
+1/11/2020,Data Centers,Recognition,Austria,129
+1/11/2020,Data Centers,Severance,Austria,75
+1/11/2020,Data Centers,Software,United Kingdom,"9,009"
+1/11/2020,Data Centers,Software,USA,"15,972"
+1/11/2020,Data Centers,Software Maintenance,United Kingdom,"118,771"
+1/11/2020,Data Centers,Software Maintenance,USA,"75,660"
+1/11/2020,Data Centers,Supplies,USA,133
+1/11/2020,Data Centers,Taxes,USA,"17,338"
+1/11/2020,Data Centers,Telecomm,Austria,13
+1/11/2020,Data Centers,Telecomm,United Kingdom,235
+1/11/2020,Data Centers,Telecomm,USA,870
+1/11/2020,Data Centers,Training,Austria,82
+1/11/2020,Data Centers,Training,USA,"1,949"
+1/11/2020,Data Centers,Travel,Austria,306
+1/11/2020,Data Centers,Travel,Netherlands,193
+1/11/2020,Data Centers,Travel,United Kingdom,"2,623"
+1/11/2020,Data Centers,Travel,USA,538
+1/11/2020,Data Centers,Vehicles,Netherlands,425
+1/11/2020,Data Centers,Vehicles,United Kingdom,1
+1/11/2020,Data Management,Internal Labor,Germany,"3,552"
+1/11/2020,Data Management,Internal Labor,Spain,"5,902"
+1/11/2020,Data Management,Telecomm,Germany,"-2,063"
+1/11/2020,Development,Employee Performance,USA,475
+1/11/2020,Development,External Labor,United Kingdom,973
+1/11/2020,Development,External Labor,USA,"204,867"
+1/11/2020,Development,Hardware,United Kingdom,577
+1/11/2020,Development,Inbound Allocations,United Kingdom,243
+1/11/2020,Development,Internal Labor,Belgium,"1,104"
+1/11/2020,Development,Internal Labor,Germany,"1,392"
+1/11/2020,Development,Internal Labor,Spain,"5,564"
+1/11/2020,Development,Internal Labor,United Kingdom,"8,024"
+1/11/2020,Development,Internal Labor,USA,"141,320"
+1/11/2020,Development,Moving,USA,52
+1/11/2020,Development,Other,Belgium,21
+1/11/2020,Development,Other,Spain,43
+1/11/2020,Development,Other,United Kingdom,22
+1/11/2020,Development,Other,USA,8
+1/11/2020,Development,Outbound Allocations,United Kingdom,"1,242"
+1/11/2020,Development,Outbound Allocations,USA,-832
+1/11/2020,Development,Project Expenses,USA,"81,000"
+1/11/2020,Development,Software,USA,"110,416"
+1/11/2020,Development,Software Maintenance,USA,"46,730"
+1/11/2020,Development,Supplies,USA,40
+1/11/2020,Development,Taxes,USA,"1,210"
+1/11/2020,Development,Telecomm,Belgium,41
+1/11/2020,Development,Telecomm,United Kingdom,86
+1/11/2020,Development,Telecomm,USA,926
+1/11/2020,Development,Training,United Kingdom,515
+1/11/2020,Development,Training,USA,911
+1/11/2020,Development,Travel,Belgium,17
+1/11/2020,Development,Travel,Spain,471
+1/11/2020,Development,Travel,United Kingdom,"1,085"
+1/11/2020,Development,Travel,USA,"2,936"
+1/11/2020,Development,Vehicles,Belgium,342
+1/11/2020,Development,Vehicles,United Kingdom,1
+1/11/2020,Distribution,Amortization,Italy,"4,409"
+1/11/2020,Distribution,Depreciation,Belgium,17
+1/11/2020,Distribution,Depreciation,Italy,297
+1/11/2020,Distribution,Depreciation,Poland,15
+1/11/2020,Distribution,Depreciation,Switzerland,448
+1/11/2020,Distribution,Depreciation,United Kingdom,27
+1/11/2020,Distribution,Employee Performance,USA,73
+1/11/2020,Distribution,External Labor,France,"6,380"
+1/11/2020,Distribution,External Labor,Germany,9
+1/11/2020,Distribution,External Labor,United Kingdom,"3,721"
+1/11/2020,Distribution,External Labor,USA,"23,465"
+1/11/2020,Distribution,Hardware,Canada,56
+1/11/2020,Distribution,Inbound Allocations,Czech Republic,"3,099"
+1/11/2020,Distribution,Inbound Allocations,Poland,"2,033"
+1/11/2020,Distribution,Internal Labor,Belgium,"19,629"
+1/11/2020,Distribution,Internal Labor,Canada,"6,477"
+1/11/2020,Distribution,Internal Labor,France,"19,216"
+1/11/2020,Distribution,Internal Labor,Germany,"32,709"
+1/11/2020,Distribution,Internal Labor,Italy,"11,924"
+1/11/2020,Distribution,Internal Labor,Portugal,"12,336"
+1/11/2020,Distribution,Internal Labor,Spain,"5,532"
+1/11/2020,Distribution,Internal Labor,Switzerland,"9,412"
+1/11/2020,Distribution,Internal Labor,United Kingdom,"21,035"
+1/11/2020,Distribution,Internal Labor,USA,"86,928"
+1/11/2020,Distribution,Other,Belgium,65
+1/11/2020,Distribution,Other,Germany,4
+1/11/2020,Distribution,Other,Poland,24
+1/11/2020,Distribution,Other,Portugal,2
+1/11/2020,Distribution,Other,Spain,31
+1/11/2020,Distribution,Other,United Kingdom,141
+1/11/2020,Distribution,Outbound Allocations,United Kingdom,719
+1/11/2020,Distribution,Severance,Italy,806
+1/11/2020,Distribution,Software,USA,17
+1/11/2020,Distribution,Software Maintenance,USA,12
+1/11/2020,Distribution,Supplies,Belgium,20
+1/11/2020,Distribution,Supplies,Canada,"-1,233"
+1/11/2020,Distribution,Supplies,Switzerland,149
+1/11/2020,Distribution,Supplies,USA,64
+1/11/2020,Distribution,Telecomm,Belgium,41
+1/11/2020,Distribution,Telecomm,Canada,40
+1/11/2020,Distribution,Telecomm,Czech Republic,23
+1/11/2020,Distribution,Telecomm,Italy,291
+1/11/2020,Distribution,Telecomm,Poland,88
+1/11/2020,Distribution,Telecomm,Portugal,161
+1/11/2020,Distribution,Telecomm,Switzerland,283
+1/11/2020,Distribution,Telecomm,United Kingdom,118
+1/11/2020,Distribution,Telecomm,USA,294
+1/11/2020,Distribution,Training,Italy,766
+1/11/2020,Distribution,Training,USA,79
+1/11/2020,Distribution,Travel,Belgium,114
+1/11/2020,Distribution,Travel,Canada,502
+1/11/2020,Distribution,Travel,France,139
+1/11/2020,Distribution,Travel,Germany,168
+1/11/2020,Distribution,Travel,Italy,144
+1/11/2020,Distribution,Travel,Poland,5
+1/11/2020,Distribution,Travel,Portugal,204
+1/11/2020,Distribution,Travel,Switzerland,346
+1/11/2020,Distribution,Travel,United Kingdom,"2,701"
+1/11/2020,Distribution,Travel,USA,267
+1/11/2020,Distribution,Vehicles,Belgium,364
+1/11/2020,Distribution,Vehicles,Portugal,430
+1/11/2020,Distribution,Vehicles,United Kingdom,580
+1/11/2020,Document Management,Depreciation,USA,261
+1/11/2020,Document Management,Employee Performance,USA,223
+1/11/2020,Document Management,External Labor,USA,"136,045"
+1/11/2020,Document Management,Internal Labor,USA,"90,272"
+1/11/2020,Document Management,Other,USA,117
+1/11/2020,Document Management,Software,USA,470
+1/11/2020,Document Management,Software Maintenance,USA,"62,812"
+1/11/2020,Document Management,Supplies,USA,19
+1/11/2020,Document Management,Taxes,USA,154
+1/11/2020,Document Management,Telecomm,USA,511
+1/11/2020,Document Management,Travel,USA,493
+1/11/2020,EIM,Amortization,Italy,168
+1/11/2020,EIM,CAPEX,USA,"25,724"
+1/11/2020,EIM,Depreciation,Italy,"1,659"
+1/11/2020,EIM,Employee Performance,USA,850
+1/11/2020,EIM,External Labor,Italy,"11,254"
+1/11/2020,EIM,External Labor,USA,"119,350"
+1/11/2020,EIM,Internal Labor,Italy,"4,826"
+1/11/2020,EIM,Internal Labor,USA,"111,757"
+1/11/2020,EIM,Recognition,USA,74
+1/11/2020,EIM,Severance,Italy,195
+1/11/2020,EIM,Software,USA,"53,240"
+1/11/2020,EIM,Software Maintenance,USA,"126,561"
+1/11/2020,EIM,Supplies,USA,-9
+1/11/2020,EIM,Telecomm,USA,516
+1/11/2020,EIM,Training,USA,"1,335"
+1/11/2020,EIM,Travel,Italy,"1,405"
+1/11/2020,EIM,Travel,USA,"3,644"
+1/11/2020,Emerging,Depreciation,Brazil,"4,970"
+1/11/2020,Emerging,Depreciation,Mexico,419
+1/11/2020,Emerging,Depreciation,Turkey,"2,748"
+1/11/2020,Emerging,Depreciation,USA,63
+1/11/2020,Emerging,External Labor,Brazil,"1,741"
+1/11/2020,Emerging,External Labor,Mexico,"41,736"
+1/11/2020,Emerging,External Labor,USA,"3,687"
+1/11/2020,Emerging,Hardware,Turkey,448
+1/11/2020,Emerging,Hardware,USA,215
+1/11/2020,Emerging,Hardware Maintenance,Brazil,"5,110"
+1/11/2020,Emerging,Internal Labor,Brazil,"5,159"
+1/11/2020,Emerging,Internal Labor,Mexico,"21,060"
+1/11/2020,Emerging,Internal Labor,USA,"4,523"
+1/11/2020,Emerging,Other,Brazil,"-12,447"
+1/11/2020,Emerging,Other,Mexico,"18,271"
+1/11/2020,Emerging,Other,Switzerland,"9,780"
+1/11/2020,Emerging,Other,Turkey,87
+1/11/2020,Emerging,Other,USA,"10,177"
+1/11/2020,Emerging,Recognition,Mexico,23
+1/11/2020,Emerging,Severance,Mexico,"5,351"
+1/11/2020,Emerging,Software Maintenance,Brazil,"-1,123"
+1/11/2020,Emerging,Supplies,Brazil,5
+1/11/2020,Emerging,Supplies,Mexico,19
+1/11/2020,Emerging,Supplies,Turkey,125
+1/11/2020,Emerging,Supplies,USA,7
+1/11/2020,Emerging,Telecomm,Brazil,"1,055"
+1/11/2020,Emerging,Telecomm,Mexico,240
+1/11/2020,Emerging,Telecomm,Turkey,224
+1/11/2020,Emerging,Telecomm,USA,149
+1/11/2020,Emerging,Training,Brazil,66
+1/11/2020,Emerging,Training,Mexico,741
+1/11/2020,Emerging,Travel,Brazil,-24
+1/11/2020,Emerging,Travel,Mexico,14
+1/11/2020,Emerging,Travel,Turkey,"2,163"
+1/11/2020,Emerging,Travel,USA,"5,007"
+1/11/2020,Emerging,Vehicles,Mexico,213
+1/11/2020,Enterprise Capabilities,Depreciation,United Kingdom,20
+1/11/2020,Enterprise Capabilities,Internal Labor,Spain,"12,350"
+1/11/2020,Enterprise Capabilities,Internal Labor,United Kingdom,"8,805"
+1/11/2020,Enterprise Capabilities,Other,United Kingdom,6
+1/11/2020,Enterprise Capabilities,Telecomm,United Kingdom,54
+1/11/2020,Enterprise Capabilities,Travel,United Kingdom,"1,607"
+1/11/2020,Enterprise Capabilities,Vehicles,United Kingdom,1
+1/11/2020,GRC,CAPEX,United Kingdom,5
+1/11/2020,GRC,Depreciation,United Kingdom,165
+1/11/2020,GRC,Employee Performance,USA,281
+1/11/2020,GRC,External Labor,Germany,"31,992"
+1/11/2020,GRC,External Labor,Spain,"-6,016"
+1/11/2020,GRC,External Labor,United Kingdom,"5,147"
+1/11/2020,GRC,External Labor,USA,"-57,427"
+1/11/2020,GRC,Hardware Maintenance,Italy,"20,386"
+1/11/2020,GRC,Hardware Maintenance,USA,14
+1/11/2020,GRC,Internal Labor,France,"-1,299"
+1/11/2020,GRC,Internal Labor,Germany,"50,991"
+1/11/2020,GRC,Internal Labor,Italy,"9,811"
+1/11/2020,GRC,Internal Labor,New Zealand,"10,307"
+1/11/2020,GRC,Internal Labor,United Kingdom,"38,819"
+1/11/2020,GRC,Internal Labor,USA,"63,283"
+1/11/2020,GRC,Other,Germany,32
+1/11/2020,GRC,Other,United Kingdom,46
+1/11/2020,GRC,Other,USA,117
+1/11/2020,GRC,Outbound Allocations,United Kingdom,719
+1/11/2020,GRC,Severance,Italy,566
+1/11/2020,GRC,Severance,New Zealand,120
+1/11/2020,GRC,Software Maintenance,United Kingdom,"3,633"
+1/11/2020,GRC,Supplies,USA,2
+1/11/2020,GRC,Taxes,USA,104
+1/11/2020,GRC,Telecomm,Germany,32
+1/11/2020,GRC,Telecomm,Italy,194
+1/11/2020,GRC,Telecomm,New Zealand,15
+1/11/2020,GRC,Telecomm,United Kingdom,95
+1/11/2020,GRC,Telecomm,USA,747
+1/11/2020,GRC,Training,USA,24
+1/11/2020,GRC,Travel,Germany,"2,067"
+1/11/2020,GRC,Travel,Italy,49
+1/11/2020,GRC,Travel,New Zealand,-16
+1/11/2020,GRC,Travel,Spain,8
+1/11/2020,GRC,Travel,United Kingdom,"1,904"
+1/11/2020,GRC,Vehicles,United Kingdom,213
+1/11/2020,Help Desk,External Labor,USA,"301,160"
+1/11/2020,Help Desk,Hardware Maintenance,USA,27
+1/11/2020,Help Desk,Internal Labor,Spain,"1,841"
+1/11/2020,Help Desk,Other,USA,70
+1/11/2020,Help Desk,Software,USA,20
+1/11/2020,Help Desk,Software Maintenance,United Kingdom,"11,825"
+1/11/2020,Help Desk,Software Maintenance,USA,8
+1/11/2020,Help Desk,Taxes,USA,230
+1/11/2020,Help Desk,Telecomm,USA,"8,583"
+1/11/2020,Hosting,Amortization,USA,"3,507"
+1/11/2020,Hosting,Depreciation,USA,"29,914"
+1/11/2020,Hosting,Employee Performance,USA,310
+1/11/2020,Hosting,External Labor,USA,"263,501"
+1/11/2020,Hosting,Internal Labor,United Kingdom,"8,031"
+1/11/2020,Hosting,Internal Labor,USA,"82,887"
+1/11/2020,Hosting,Other,USA,314
+1/11/2020,Hosting,Software,USA,"6,463"
+1/11/2020,Hosting,Software Maintenance,USA,"329,323"
+1/11/2020,Hosting,Supplies,USA,85
+1/11/2020,Hosting,Taxes,USA,"3,253"
+1/11/2020,Hosting,Telecomm,USA,380
+1/11/2020,Hosting,Travel,United Kingdom,-107
+1/11/2020,Hosting,Vehicles,United Kingdom,1
+1/11/2020,Innovation,Depreciation,Austria,2
+1/11/2020,Innovation,Employee Performance,USA,3
+1/11/2020,Innovation,Hardware Maintenance,Austria,9
+1/11/2020,Innovation,Internal Labor,Austria,"8,089"
+1/11/2020,Innovation,Internal Labor,USA,"9,290"
+1/11/2020,Innovation,Moving,USA,571
+1/11/2020,Innovation,Other,Austria,14
+1/11/2020,Innovation,Other,USA,2
+1/11/2020,Innovation,Severance,Austria,105
+1/11/2020,Innovation,Software,USA,11
+1/11/2020,Innovation,Software Maintenance,USA,8
+1/11/2020,Innovation,Supplies,USA,12
+1/11/2020,Innovation,Telecomm,Austria,116
+1/11/2020,Innovation,Telecomm,USA,126
+1/11/2020,Innovation,Travel,Austria,252
+1/11/2020,Manufacturing,Amortization,France,"2,743"
+1/11/2020,Manufacturing,Amortization,Germany,"1,339"
+1/11/2020,Manufacturing,Amortization,Ireland,"1,877"
+1/11/2020,Manufacturing,Amortization,Italy,"8,500"
+1/11/2020,Manufacturing,Amortization,Puerto Rico,"26,694"
+1/11/2020,Manufacturing,Amortization,USA,"1,047,042"
+1/11/2020,Manufacturing,Depreciation,Brazil,"3,269"
+1/11/2020,Manufacturing,Depreciation,France,"15,088"
+1/11/2020,Manufacturing,Depreciation,Germany,83
+1/11/2020,Manufacturing,Depreciation,Ireland,"7,658"
+1/11/2020,Manufacturing,Depreciation,Italy,"14,601"
+1/11/2020,Manufacturing,Depreciation,Mexico,850
+1/11/2020,Manufacturing,Depreciation,Puerto Rico,"64,699"
+1/11/2020,Manufacturing,Depreciation,Spain,"2,185"
+1/11/2020,Manufacturing,Depreciation,United Kingdom,"1,071"
+1/11/2020,Manufacturing,Depreciation,USA,"24,880"
+1/11/2020,Manufacturing,Employee Performance,USA,"4,054"
+1/11/2020,Manufacturing,External Labor,Brazil,"5,213"
+1/11/2020,Manufacturing,External Labor,France,"164,637"
+1/11/2020,Manufacturing,External Labor,Ireland,"1,517"
+1/11/2020,Manufacturing,External Labor,Italy,"113,206"
+1/11/2020,Manufacturing,External Labor,Mexico,"6,458"
+1/11/2020,Manufacturing,External Labor,Puerto Rico,"56,700"
+1/11/2020,Manufacturing,External Labor,Spain,"9,688"
+1/11/2020,Manufacturing,External Labor,USA,"459,097"
+1/11/2020,Manufacturing,Hardware,France,"1,777"
+1/11/2020,Manufacturing,Hardware,Puerto Rico,"47,599"
+1/11/2020,Manufacturing,Hardware,Spain,405
+1/11/2020,Manufacturing,Hardware,USA,"3,977"
+1/11/2020,Manufacturing,Hardware Maintenance,Brazil,"1,585"
+1/11/2020,Manufacturing,Hardware Maintenance,France,643
+1/11/2020,Manufacturing,Hardware Maintenance,Germany,"3,825"
+1/11/2020,Manufacturing,Hardware Maintenance,Ireland,292
+1/11/2020,Manufacturing,Hardware Maintenance,Italy,"43,512"
+1/11/2020,Manufacturing,Hardware Maintenance,Puerto Rico,"17,042"
+1/11/2020,Manufacturing,Hardware Maintenance,USA,10
+1/11/2020,Manufacturing,Internal Labor,Brazil,-153
+1/11/2020,Manufacturing,Internal Labor,France,"102,562"
+1/11/2020,Manufacturing,Internal Labor,Germany,"29,160"
+1/11/2020,Manufacturing,Internal Labor,Ireland,"23,734"
+1/11/2020,Manufacturing,Internal Labor,Italy,"29,348"
+1/11/2020,Manufacturing,Internal Labor,Puerto Rico,"69,781"
+1/11/2020,Manufacturing,Internal Labor,Spain,"29,349"
+1/11/2020,Manufacturing,Internal Labor,United Kingdom,"7,952"
+1/11/2020,Manufacturing,Internal Labor,USA,"521,529"
+1/11/2020,Manufacturing,Moving,Spain,574
+1/11/2020,Manufacturing,Other,Brazil,"9,006"
+1/11/2020,Manufacturing,Other,France,"-65,960"
+1/11/2020,Manufacturing,Other,Germany,12
+1/11/2020,Manufacturing,Other,Italy,"-143,501"
+1/11/2020,Manufacturing,Other,Puerto Rico,"-26,030"
+1/11/2020,Manufacturing,Other,Spain,-13
+1/11/2020,Manufacturing,Other,USA,"21,825"
+1/11/2020,Manufacturing,Project Expenses,Ireland,317
+1/11/2020,Manufacturing,Project Expenses,Puerto Rico,7
+1/11/2020,Manufacturing,Project Expenses,USA,-544
+1/11/2020,Manufacturing,Recognition,Puerto Rico,57
+1/11/2020,Manufacturing,Recognition,USA,141
+1/11/2020,Manufacturing,Severance,Italy,"1,735"
+1/11/2020,Manufacturing,Software,United Kingdom,"3,403"
+1/11/2020,Manufacturing,Software,USA,"47,100"
+1/11/2020,Manufacturing,Software Maintenance,France,"2,422"
+1/11/2020,Manufacturing,Software Maintenance,Italy,"10,279"
+1/11/2020,Manufacturing,Software Maintenance,United Kingdom,"1,829"
+1/11/2020,Manufacturing,Software Maintenance,USA,"205,810"
+1/11/2020,Manufacturing,Supplies,Brazil,35
+1/11/2020,Manufacturing,Supplies,Puerto Rico,"4,163"
+1/11/2020,Manufacturing,Supplies,USA,298
+1/11/2020,Manufacturing,Taxes,USA,"2,226"
+1/11/2020,Manufacturing,Telecomm,Brazil,132
+1/11/2020,Manufacturing,Telecomm,France,"14,215"
+1/11/2020,Manufacturing,Telecomm,Ireland,"17,178"
+1/11/2020,Manufacturing,Telecomm,Italy,"15,319"
+1/11/2020,Manufacturing,Telecomm,Puerto Rico,"4,100"
+1/11/2020,Manufacturing,Telecomm,United Kingdom,1
+1/11/2020,Manufacturing,Telecomm,USA,"-16,870"
+1/11/2020,Manufacturing,Training,Puerto Rico,135
+1/11/2020,Manufacturing,Training,USA,"2,574"
+1/11/2020,Manufacturing,Travel,Brazil,545
+1/11/2020,Manufacturing,Travel,France,"1,402"
+1/11/2020,Manufacturing,Travel,Germany,47
+1/11/2020,Manufacturing,Travel,Italy,609
+1/11/2020,Manufacturing,Travel,Puerto Rico,"1,143"
+1/11/2020,Manufacturing,Travel,United Kingdom,"6,249"
+1/11/2020,Manufacturing,Travel,USA,"9,046"
+1/11/2020,Manufacturing,Vehicles,France,234
+1/11/2020,Manufacturing,Vehicles,Spain,-9
+1/11/2020,Manufacturing,Vehicles,United Kingdom,2
+1/11/2020,Mobility,Depreciation,United Kingdom,"13,284"
+1/11/2020,Mobility,Depreciation,USA,"1,419"
+1/11/2020,Mobility,External Labor,United Kingdom,761
+1/11/2020,Mobility,External Labor,USA,"98,037"
+1/11/2020,Mobility,Other,United Kingdom,623
+1/11/2020,Mobility,Outbound Allocations,United Kingdom,"1,438"
+1/11/2020,Mobility,Software,USA,"2,815"
+1/11/2020,Mobility,Software Maintenance,USA,"75,399"
+1/11/2020,Mobility,Taxes,USA,840
+1/11/2020,Mobility,Vehicles,United Kingdom,181
+1/11/2020,Networking,Depreciation,Canada,328
+1/11/2020,Networking,Depreciation,Mexico,5
+1/11/2020,Networking,Depreciation,Switzerland,545
+1/11/2020,Networking,Depreciation,United Kingdom,"2,991"
+1/11/2020,Networking,Depreciation,USA,"62,533"
+1/11/2020,Networking,Employee Performance,USA,319
+1/11/2020,Networking,External Labor,Ireland,"60,935"
+1/11/2020,Networking,External Labor,Mexico,"27,299"
+1/11/2020,Networking,External Labor,Switzerland,"9,157"
+1/11/2020,Networking,External Labor,United Kingdom,972
+1/11/2020,Networking,External Labor,USA,"215,666"
+1/11/2020,Networking,Hardware,Switzerland,"2,883"
+1/11/2020,Networking,Hardware,United Kingdom,"150,083"
+1/11/2020,Networking,Hardware,USA,"157,945"
+1/11/2020,Networking,Hardware Maintenance,Switzerland,"1,168"
+1/11/2020,Networking,Hardware Maintenance,USA,"39,848"
+1/11/2020,Networking,Internal Labor,Germany,"17,517"
+1/11/2020,Networking,Internal Labor,Switzerland,"8,036"
+1/11/2020,Networking,Internal Labor,United Kingdom,"14,369"
+1/11/2020,Networking,Internal Labor,USA,"51,456"
+1/11/2020,Networking,Other,Mexico,"4,357"
+1/11/2020,Networking,Other,Switzerland,345
+1/11/2020,Networking,Other,United Kingdom,5
+1/11/2020,Networking,Other,USA,92
+1/11/2020,Networking,Project Expenses,United Kingdom,69
+1/11/2020,Networking,Software,United Kingdom,"9,997"
+1/11/2020,Networking,Software,USA,85
+1/11/2020,Networking,Software Maintenance,USA,"39,252"
+1/11/2020,Networking,Supplies,USA,85
+1/11/2020,Networking,Taxes,USA,"5,321"
+1/11/2020,Networking,Telecomm,Canada,"3,193"
+1/11/2020,Networking,Telecomm,Mexico,"10,930"
+1/11/2020,Networking,Telecomm,Switzerland,904
+1/11/2020,Networking,Telecomm,United Kingdom,"40,690"
+1/11/2020,Networking,Telecomm,USA,"594,427"
+1/11/2020,Networking,Training,Switzerland,341
+1/11/2020,Networking,Training,United Kingdom,677
+1/11/2020,Networking,Travel,Switzerland,"4,951"
+1/11/2020,Networking,Travel,United Kingdom,"3,256"
+1/11/2020,Networking,Travel,USA,176
+1/11/2020,Networking,Vehicles,Switzerland,203
+1/11/2020,Networking,Vehicles,United Kingdom,253
+1/11/2020,Other,Depreciation,Switzerland,378
+1/11/2020,Other,External Labor,Switzerland,"8,146"
+1/11/2020,Other,Hardware,Switzerland,"16,946"
+1/11/2020,Other,Hardware Maintenance,Switzerland,267
+1/11/2020,Other,Internal Labor,Switzerland,"4,251"
+1/11/2020,Other,Other,Switzerland,426
+1/11/2020,Other,Severance,Switzerland,875
+1/11/2020,Other,Telecomm,Switzerland,318
+1/11/2020,Other,Travel,Switzerland,792
+1/11/2020,Other,Vehicles,Switzerland,172
+1/11/2020,Planning,Amortization,USA,"279,756"
+1/11/2020,Planning,Depreciation,Brazil,4
+1/11/2020,Planning,Depreciation,USA,"47,488"
+1/11/2020,Planning,Employee Performance,USA,"1,368"
+1/11/2020,Planning,External Labor,Italy,487
+1/11/2020,Planning,External Labor,United Kingdom,"9,275"
+1/11/2020,Planning,External Labor,USA,"386,153"
+1/11/2020,Planning,Hardware,USA,16
+1/11/2020,Planning,Hardware Maintenance,Italy,"6,380"
+1/11/2020,Planning,Hardware Maintenance,USA,18
+1/11/2020,Planning,Inbound Allocations,United Kingdom,"-8,034"
+1/11/2020,Planning,Internal Labor,France,"-5,222"
+1/11/2020,Planning,Internal Labor,United Kingdom,"6,642"
+1/11/2020,Planning,Internal Labor,USA,"360,675"
+1/11/2020,Planning,Other,Brazil,3
+1/11/2020,Planning,Other,United Kingdom,10
+1/11/2020,Planning,Other,USA,"34,379"
+1/11/2020,Planning,Outbound Allocations,United Kingdom,"2,951"
+1/11/2020,Planning,Outbound Allocations,USA,"-7,042"
+1/11/2020,Planning,Recognition,USA,43
+1/11/2020,Planning,Software,USA,"278,023"
+1/11/2020,Planning,Software Maintenance,United Kingdom,789
+1/11/2020,Planning,Software Maintenance,USA,"433,209"
+1/11/2020,Planning,Supplies,USA,"1,238"
+1/11/2020,Planning,Taxes,USA,"2,325"
+1/11/2020,Planning,Telecomm,United Kingdom,"8,438"
+1/11/2020,Planning,Telecomm,USA,"2,709"
+1/11/2020,Planning,Training,USA,"1,663"
+1/11/2020,Planning,Travel,United Kingdom,161
+1/11/2020,Planning,Travel,USA,"1,451"
+1/11/2020,Planning,Vehicles,United Kingdom,822
+1/11/2020,Portals,Employee Performance,USA,575
+1/11/2020,Portals,External Labor,USA,"17,093"
+1/11/2020,Portals,Internal Labor,USA,"63,380"
+1/11/2020,Portals,Other,USA,37
+1/11/2020,Portals,Software,USA,"14,427"
+1/11/2020,Portals,Software Maintenance,USA,16
+1/11/2020,Portals,Telecomm,USA,304
+1/11/2020,Portals,Training,USA,162
+1/11/2020,Portals,Travel,USA,846
+1/11/2020,Portfolio Management,Employee Performance,USA,161
+1/11/2020,Portfolio Management,External Labor,USA,"1,566"
+1/11/2020,Portfolio Management,Internal Labor,USA,"59,687"
+1/11/2020,Portfolio Management,Other,USA,"24,638"
+1/11/2020,Portfolio Management,Software,USA,20
+1/11/2020,Portfolio Management,Software Maintenance,USA,4
+1/11/2020,Portfolio Management,Supplies,USA,60
+1/11/2020,Portfolio Management,Telecomm,USA,374
+1/11/2020,Process Management,Depreciation,USA,"1,214"
+1/11/2020,Process Management,Employee Performance,USA,403
+1/11/2020,Process Management,External Labor,USA,"139,589"
+1/11/2020,Process Management,Hardware,USA,480
+1/11/2020,Process Management,Internal Labor,USA,"91,210"
+1/11/2020,Process Management,Other,USA,14
+1/11/2020,Process Management,Outbound Allocations,USA,"24,685"
+1/11/2020,Process Management,Software,USA,"26,346"
+1/11/2020,Process Management,Software Maintenance,USA,"14,250"
+1/11/2020,Process Management,Supplies,USA,629
+1/11/2020,Process Management,Taxes,USA,97
+1/11/2020,Process Management,Telecomm,USA,473
+1/11/2020,Process Management,Training,USA,"1,017"
+1/11/2020,Process Management,Travel,USA,"1,359"
+1/11/2020,Production,Employee Performance,USA,30
+1/11/2020,Production,External Labor,USA,"4,339"
+1/11/2020,Production,Internal Labor,USA,"20,802"
+1/11/2020,Production,Other,USA,2
+1/11/2020,Production,Supplies,USA,9
+1/11/2020,Production,Telecomm,USA,287
+1/11/2020,Production,Travel,USA,518
+1/11/2020,Productivity,Amortization,Denmark,"4,021"
+1/11/2020,Productivity,Amortization,France,66
+1/11/2020,Productivity,Amortization,Hungary,193
+1/11/2020,Productivity,Amortization,Italy,"1,710"
+1/11/2020,Productivity,CAPEX,USA,60
+1/11/2020,Productivity,Depreciation,Austria,"2,870"
+1/11/2020,Productivity,Depreciation,Belgium,297
+1/11/2020,Productivity,Depreciation,Bosnia,34
+1/11/2020,Productivity,Depreciation,Canada,1
+1/11/2020,Productivity,Depreciation,Croatia,476
+1/11/2020,Productivity,Depreciation,Czech Republic,372
+1/11/2020,Productivity,Depreciation,France,"2,246"
+1/11/2020,Productivity,Depreciation,Germany,"4,621"
+1/11/2020,Productivity,Depreciation,Hungary,"1,418"
+1/11/2020,Productivity,Depreciation,Ireland,"4,525"
+1/11/2020,Productivity,Depreciation,Italy,"18,949"
+1/11/2020,Productivity,Depreciation,Netherlands,352
+1/11/2020,Productivity,Depreciation,Norway,42
+1/11/2020,Productivity,Depreciation,Poland,227
+1/11/2020,Productivity,Depreciation,Portugal,"1,380"
+1/11/2020,Productivity,Depreciation,Romania,19
+1/11/2020,Productivity,Depreciation,Slovakia,234
+1/11/2020,Productivity,Depreciation,Slovenia,792
+1/11/2020,Productivity,Depreciation,Spain,"1,772"
+1/11/2020,Productivity,Depreciation,Switzerland,"1,530"
+1/11/2020,Productivity,Depreciation,United Kingdom,140
+1/11/2020,Productivity,Depreciation,USA,194
+1/11/2020,Productivity,Employee Performance,USA,55
+1/11/2020,Productivity,External Labor,Austria,"5,287"
+1/11/2020,Productivity,External Labor,Belgium,"5,552"
+1/11/2020,Productivity,External Labor,Canada,"-1,224"
+1/11/2020,Productivity,External Labor,Czech Republic,"1,225"
+1/11/2020,Productivity,External Labor,Denmark,919
+1/11/2020,Productivity,External Labor,Finland,"14,500"
+1/11/2020,Productivity,External Labor,France,"49,836"
+1/11/2020,Productivity,External Labor,Germany,"51,541"
+1/11/2020,Productivity,External Labor,Hungary,"1,626"
+1/11/2020,Productivity,External Labor,Ireland,"6,785"
+1/11/2020,Productivity,External Labor,Italy,"79,503"
+1/11/2020,Productivity,External Labor,Netherlands,"1,881"
+1/11/2020,Productivity,External Labor,Poland,"1,723"
+1/11/2020,Productivity,External Labor,Portugal,"1,650"
+1/11/2020,Productivity,External Labor,Slovakia,474
+1/11/2020,Productivity,External Labor,Slovenia,425
+1/11/2020,Productivity,External Labor,Switzerland,"7,358"
+1/11/2020,Productivity,External Labor,United Kingdom,"-7,897"
+1/11/2020,Productivity,External Labor,USA,"357,069"
+1/11/2020,Productivity,Hardware,Austria,"16,179"
+1/11/2020,Productivity,Hardware,Belgium,"8,159"
+1/11/2020,Productivity,Hardware,Bosnia,54
+1/11/2020,Productivity,Hardware,Canada,232
+1/11/2020,Productivity,Hardware,Czech Republic,"5,122"
+1/11/2020,Productivity,Hardware,Denmark,"7,219"
+1/11/2020,Productivity,Hardware,Finland,299
+1/11/2020,Productivity,Hardware,France,"27,582"
+1/11/2020,Productivity,Hardware,Germany,"27,053"
+1/11/2020,Productivity,Hardware,Netherlands,"6,582"
+1/11/2020,Productivity,Hardware,Poland,"6,495"
+1/11/2020,Productivity,Hardware,Romania,56
+1/11/2020,Productivity,Hardware,Slovenia,192
+1/11/2020,Productivity,Hardware,Spain,"-37,606"
+1/11/2020,Productivity,Hardware,Sweden,"13,438"
+1/11/2020,Productivity,Hardware,Switzerland,"13,336"
+1/11/2020,Productivity,Hardware,United Kingdom,"63,605"
+1/11/2020,Productivity,Hardware,USA,"187,098"
+1/11/2020,Productivity,Hardware Maintenance,Austria,521
+1/11/2020,Productivity,Hardware Maintenance,Croatia,93
+1/11/2020,Productivity,Hardware Maintenance,France,"13,901"
+1/11/2020,Productivity,Hardware Maintenance,Germany,"-2,501"
+1/11/2020,Productivity,Hardware Maintenance,Hungary,193
+1/11/2020,Productivity,Hardware Maintenance,Ireland,"6,398"
+1/11/2020,Productivity,Hardware Maintenance,Italy,85
+1/11/2020,Productivity,Hardware Maintenance,Romania,396
+1/11/2020,Productivity,Hardware Maintenance,Slovakia,408
+1/11/2020,Productivity,Hardware Maintenance,Spain,"1,262"
+1/11/2020,Productivity,Hardware Maintenance,Switzerland,749
+1/11/2020,Productivity,Hardware Maintenance,United Kingdom,271
+1/11/2020,Productivity,Hardware Maintenance,USA,53
+1/11/2020,Productivity,Inbound Allocations,Finland,"-2,372"
+1/11/2020,Productivity,Inbound Allocations,Germany,"-1,560"
+1/11/2020,Productivity,Inbound Allocations,Spain,"1,432"
+1/11/2020,Productivity,Inbound Allocations,Switzerland,500
+1/11/2020,Productivity,Inbound Allocations,United Kingdom,179
+1/11/2020,Productivity,Internal Labor,Belgium,"6,148"
+1/11/2020,Productivity,Internal Labor,Denmark,916
+1/11/2020,Productivity,Internal Labor,France,"3,740"
+1/11/2020,Productivity,Internal Labor,Germany,"8,489"
+1/11/2020,Productivity,Internal Labor,Italy,"7,728"
+1/11/2020,Productivity,Internal Labor,Romania,"1,365"
+1/11/2020,Productivity,Internal Labor,Slovenia,"3,361"
+1/11/2020,Productivity,Internal Labor,Spain,"6,105"
+1/11/2020,Productivity,Internal Labor,Sweden,"3,107"
+1/11/2020,Productivity,Internal Labor,Switzerland,"3,923"
+1/11/2020,Productivity,Internal Labor,United Kingdom,"18,836"
+1/11/2020,Productivity,Internal Labor,USA,"51,544"
+1/11/2020,Productivity,Other,Belgium,29
+1/11/2020,Productivity,Other,Canada,"1,508"
+1/11/2020,Productivity,Other,Denmark,"3,244"
+1/11/2020,Productivity,Other,Italy,-415
+1/11/2020,Productivity,Other,Portugal,"2,288"
+1/11/2020,Productivity,Other,Switzerland,"9,530"
+1/11/2020,Productivity,Other,United Kingdom,251
+1/11/2020,Productivity,Other,USA,"8,581"
+1/11/2020,Productivity,Outbound Allocations,Italy,-1
+1/11/2020,Productivity,Outbound Allocations,United Kingdom,"4,315"
+1/11/2020,Productivity,Project Expenses,United Kingdom,"4,087"
+1/11/2020,Productivity,Recognition,Austria,"-6,452"
+1/11/2020,Productivity,Severance,Italy,374
+1/11/2020,Productivity,Software,Belgium,194
+1/11/2020,Productivity,Software,Denmark,"1,737"
+1/11/2020,Productivity,Software,France,"5,104"
+1/11/2020,Productivity,Software,Ireland,"2,518"
+1/11/2020,Productivity,Software,United Kingdom,"1,078"
+1/11/2020,Productivity,Software,USA,"3,189"
+1/11/2020,Productivity,Supplies,Belgium,"3,807"
+1/11/2020,Productivity,Supplies,Denmark,543
+1/11/2020,Productivity,Supplies,Finland,316
+1/11/2020,Productivity,Supplies,Germany,"1,496"
+1/11/2020,Productivity,Supplies,Ireland,"28,408"
+1/11/2020,Productivity,Supplies,Italy,"18,663"
+1/11/2020,Productivity,Supplies,Norway,-21
+1/11/2020,Productivity,Supplies,Romania,-54
+1/11/2020,Productivity,Supplies,Switzerland,"13,178"
+1/11/2020,Productivity,Supplies,USA,"7,418"
+1/11/2020,Productivity,Taxes,USA,149
+1/11/2020,Productivity,Telecomm,Austria,46
+1/11/2020,Productivity,Telecomm,Belgium,"1,581"
+1/11/2020,Productivity,Telecomm,Czech Republic,233
+1/11/2020,Productivity,Telecomm,France,"-25,343"
+1/11/2020,Productivity,Telecomm,Germany,"31,227"
+1/11/2020,Productivity,Telecomm,Italy,"47,616"
+1/11/2020,Productivity,Telecomm,Netherlands,631
+1/11/2020,Productivity,Telecomm,Poland,"1,106"
+1/11/2020,Productivity,Telecomm,Portugal,111
+1/11/2020,Productivity,Telecomm,Romania,355
+1/11/2020,Productivity,Telecomm,Slovakia,29
+1/11/2020,Productivity,Telecomm,Slovenia,87
+1/11/2020,Productivity,Telecomm,Spain,"108,906"
+1/11/2020,Productivity,Telecomm,Switzerland,"7,717"
+1/11/2020,Productivity,Telecomm,United Kingdom,"24,694"
+1/11/2020,Productivity,Telecomm,USA,"2,400"
+1/11/2020,Productivity,Training,Germany,"1,732"
+1/11/2020,Productivity,Training,USA,638
+1/11/2020,Productivity,Travel,Belgium,398
+1/11/2020,Productivity,Travel,France,360
+1/11/2020,Productivity,Travel,Romania,"1,298"
+1/11/2020,Productivity,Travel,Slovenia,627
+1/11/2020,Productivity,Travel,Switzerland,"2,206"
+1/11/2020,Productivity,Travel,United Kingdom,"2,907"
+1/11/2020,Productivity,Travel,USA,"1,776"
+1/11/2020,Productivity,Vehicles,Belgium,370
+1/11/2020,Productivity,Vehicles,Romania,335
+1/11/2020,Productivity,Vehicles,Slovenia,675
+1/11/2020,Productivity,Vehicles,United Kingdom,9
+1/11/2020,Productivity,Vehicles,USA,4
+1/11/2020,Quality & Compliance,Depreciation,Israel,645
+1/11/2020,Quality & Compliance,Employee Performance,USA,91
+1/11/2020,Quality & Compliance,External Labor,Israel,"2,254"
+1/11/2020,Quality & Compliance,External Labor,USA,"32,860"
+1/11/2020,Quality & Compliance,Internal Labor,Israel,"3,715"
+1/11/2020,Quality & Compliance,Internal Labor,USA,"70,610"
+1/11/2020,Quality & Compliance,Software,USA,69
+1/11/2020,Quality & Compliance,Software Maintenance,USA,37
+1/11/2020,Quality & Compliance,Taxes,USA,5
+1/11/2020,Quality & Compliance,Telecomm,Israel,355
+1/11/2020,Quality & Compliance,Telecomm,USA,285
+1/11/2020,Quality & Compliance,Travel,Israel,308
+1/11/2020,Quality & Compliance,Travel,USA,97
+1/11/2020,Quality & Compliance,Vehicles,Israel,372
+1/11/2020,R&D,Depreciation,Spain,375
+1/11/2020,R&D,Depreciation,United Kingdom,"1,906"
+1/11/2020,R&D,Employee Performance,USA,766
+1/11/2020,R&D,External Labor,Spain,"1,792"
+1/11/2020,R&D,External Labor,United Kingdom,"30,493"
+1/11/2020,R&D,External Labor,USA,"97,703"
+1/11/2020,R&D,Hardware,USA,"3,622"
+1/11/2020,R&D,Inbound Allocations,Spain,"1,317"
+1/11/2020,R&D,Inbound Allocations,United Kingdom,489
+1/11/2020,R&D,Internal Labor,Spain,"9,923"
+1/11/2020,R&D,Internal Labor,United Kingdom,"28,897"
+1/11/2020,R&D,Internal Labor,USA,"181,969"
+1/11/2020,R&D,Moving,United Kingdom,"4,045"
+1/11/2020,R&D,Other,United Kingdom,107
+1/11/2020,R&D,Other,USA,"46,772"
+1/11/2020,R&D,Outbound Allocations,Spain,"2,489"
+1/11/2020,R&D,Outbound Allocations,United Kingdom,"5,384"
+1/11/2020,R&D,Project Expenses,United Kingdom,838
+1/11/2020,R&D,Software,USA,"6,278"
+1/11/2020,R&D,Software Maintenance,United Kingdom,"22,251"
+1/11/2020,R&D,Software Maintenance,USA,"40,030"
+1/11/2020,R&D,Supplies,USA,552
+1/11/2020,R&D,Taxes,USA,"1,501"
+1/11/2020,R&D,Telecomm,United Kingdom,197
+1/11/2020,R&D,Telecomm,USA,768
+1/11/2020,R&D,Training,Spain,"1,526"
+1/11/2020,R&D,Training,United Kingdom,"1,092"
+1/11/2020,R&D,Training,USA,865
+1/11/2020,R&D,Travel,United Kingdom,641
+1/11/2020,R&D,Travel,USA,"3,244"
+1/11/2020,R&D,Vehicles,United Kingdom,2
+1/11/2020,R1,Amortization,United Kingdom,"18,911"
+1/11/2020,R1,Depreciation,Austria,9
+1/11/2020,R1,Depreciation,Belgium,4
+1/11/2020,R1,Depreciation,Germany,"4,516"
+1/11/2020,R1,External Labor,Belgium,"123,491"
+1/11/2020,R1,External Labor,Germany,"-4,448"
+1/11/2020,R1,External Labor,Spain,14
+1/11/2020,R1,External Labor,United Kingdom,"1,756"
+1/11/2020,R1,Hardware,Canada,75
+1/11/2020,R1,Inbound Allocations,Hungary,"2,452"
+1/11/2020,R1,Internal Labor,Austria,"3,737"
+1/11/2020,R1,Internal Labor,Belgium,"31,224"
+1/11/2020,R1,Internal Labor,Canada,"11,162"
+1/11/2020,R1,Internal Labor,Germany,"3,725"
+1/11/2020,R1,Internal Labor,Hungary,2
+1/11/2020,R1,Internal Labor,Spain,"2,425"
+1/11/2020,R1,Internal Labor,United Kingdom,"1,313"
+1/11/2020,R1,Other,Austria,-2
+1/11/2020,R1,Other,Belgium,88
+1/11/2020,R1,Other,Spain,2
+1/11/2020,R1,Outbound Allocations,Italy,-1
+1/11/2020,R1,Recognition,Austria,41
+1/11/2020,R1,Severance,Austria,68
+1/11/2020,R1,Telecomm,Austria,39
+1/11/2020,R1,Telecomm,Belgium,136
+1/11/2020,R1,Telecomm,Canada,445
+1/11/2020,R1,Telecomm,Hungary,40
+1/11/2020,R1,Telecomm,Italy,484
+1/11/2020,R1,Training,Canada,721
+1/11/2020,R1,Travel,Austria,599
+1/11/2020,R1,Travel,Belgium,"3,326"
+1/11/2020,R1,Travel,Canada,"1,275"
+1/11/2020,R1,Travel,Germany,405
+1/11/2020,R1,Travel,Italy,112
+1/11/2020,R1,Travel,Spain,360
+1/11/2020,R1,Vehicles,Belgium,"1,215"
+1/11/2020,R1,Vehicles,Canada,11
+1/11/2020,R1,Vehicles,Hungary,4
+1/11/2020,R2,Amortization,Mexico,48
+1/11/2020,R2,Amortization,United Kingdom,"35,427"
+1/11/2020,R2,Amortization,USA,"1,856,890"
+1/11/2020,R2,CAPEX,USA,"-197,782"
+1/11/2020,R2,Depreciation,Brazil,"7,634"
+1/11/2020,R2,Depreciation,Mexico,133
+1/11/2020,R2,Depreciation,United Kingdom,157
+1/11/2020,R2,Depreciation,USA,"74,680"
+1/11/2020,R2,Employee Performance,USA,"2,608"
+1/11/2020,R2,External Labor,Brazil,"26,036"
+1/11/2020,R2,External Labor,Mexico,"3,619"
+1/11/2020,R2,External Labor,United Kingdom,"31,940"
+1/11/2020,R2,External Labor,USA,"834,725"
+1/11/2020,R2,Hardware,United Kingdom,"2,195"
+1/11/2020,R2,Hardware,USA,"1,697"
+1/11/2020,R2,Hardware Maintenance,Brazil,"1,157"
+1/11/2020,R2,Hardware Maintenance,Italy,"1,714"
+1/11/2020,R2,Hardware Maintenance,USA,126
+1/11/2020,R2,Inbound Allocations,Brazil,314
+1/11/2020,R2,Inbound Allocations,Spain,"1,432"
+1/11/2020,R2,Inbound Allocations,United Kingdom,242
+1/11/2020,R2,Internal Labor,Belgium,"1,076"
+1/11/2020,R2,Internal Labor,Brazil,"21,225"
+1/11/2020,R2,Internal Labor,Germany,"1,770"
+1/11/2020,R2,Internal Labor,Italy,"2,444"
+1/11/2020,R2,Internal Labor,Spain,935
+1/11/2020,R2,Internal Labor,Switzerland,"5,789"
+1/11/2020,R2,Internal Labor,United Kingdom,"60,963"
+1/11/2020,R2,Internal Labor,USA,"366,521"
+1/11/2020,R2,Moving,USA,255
+1/11/2020,R2,Other,Belgium,23
+1/11/2020,R2,Other,Brazil,468
+1/11/2020,R2,Other,France,"7,139"
+1/11/2020,R2,Other,United Kingdom,820
+1/11/2020,R2,Other,USA,"9,210"
+1/11/2020,R2,Project Expenses,USA,"224,939"
+1/11/2020,R2,Recognition,USA,51
+1/11/2020,R2,Severance,Brazil,"4,398"
+1/11/2020,R2,Severance,Italy,144
+1/11/2020,R2,Software,United Kingdom,"8,983"
+1/11/2020,R2,Software,USA,"232,941"
+1/11/2020,R2,Software Maintenance,France,"-1,124"
+1/11/2020,R2,Software Maintenance,United Kingdom,"16,311"
+1/11/2020,R2,Software Maintenance,USA,"43,073"
+1/11/2020,R2,Supplies,Brazil,-172
+1/11/2020,R2,Supplies,USA,163
+1/11/2020,R2,Taxes,USA,"5,522"
+1/11/2020,R2,Telecomm,Brazil,329
+1/11/2020,R2,Telecomm,Switzerland,74
+1/11/2020,R2,Telecomm,United Kingdom,233
+1/11/2020,R2,Telecomm,USA,"3,466"
+1/11/2020,R2,Training,USA,792
+1/11/2020,R2,Travel,Brazil,795
+1/11/2020,R2,Travel,United Kingdom,"11,971"
+1/11/2020,R2,Travel,USA,"31,745"
+1/11/2020,R2,Vehicles,United Kingdom,693
+1/11/2020,R3,Amortization,USA,"253,913"
+1/11/2020,R3,Depreciation,USA,"3,562"
+1/11/2020,R3,Employee Performance,USA,279
+1/11/2020,R3,External Labor,United Kingdom,"7,606"
+1/11/2020,R3,External Labor,USA,"852,568"
+1/11/2020,R3,Hardware,United Kingdom,"2,159"
+1/11/2020,R3,Internal Labor,Belgium,"7,768"
+1/11/2020,R3,Internal Labor,France,"2,398"
+1/11/2020,R3,Internal Labor,Germany,"10,082"
+1/11/2020,R3,Internal Labor,Portugal,"13,293"
+1/11/2020,R3,Internal Labor,Spain,"7,076"
+1/11/2020,R3,Internal Labor,Switzerland,748
+1/11/2020,R3,Internal Labor,United Kingdom,"45,122"
+1/11/2020,R3,Internal Labor,USA,"31,832"
+1/11/2020,R3,Other,Belgium,"-16,122"
+1/11/2020,R3,Other,Portugal,4
+1/11/2020,R3,Other,United Kingdom,"42,704"
+1/11/2020,R3,Other,USA,"12,300"
+1/11/2020,R3,Software,United Kingdom,"7,358"
+1/11/2020,R3,Software,USA,"56,315"
+1/11/2020,R3,Software Maintenance,United Kingdom,"-5,908"
+1/11/2020,R3,Software Maintenance,USA,"162,611"
+1/11/2020,R3,Supplies,USA,25
+1/11/2020,R3,Taxes,USA,88
+1/11/2020,R3,Telecomm,Belgium,90
+1/11/2020,R3,Telecomm,Portugal,210
+1/11/2020,R3,Telecomm,United Kingdom,393
+1/11/2020,R3,Telecomm,USA,154
+1/11/2020,R3,Training,USA,461
+1/11/2020,R3,Travel,Belgium,753
+1/11/2020,R3,Travel,France,382
+1/11/2020,R3,Travel,Germany,213
+1/11/2020,R3,Travel,Portugal,"1,190"
+1/11/2020,R3,Travel,United Kingdom,"9,231"
+1/11/2020,R3,Travel,USA,"3,395"
+1/11/2020,R3,Vehicles,Belgium,322
+1/11/2020,R3,Vehicles,Portugal,986
+1/11/2020,R3,Vehicles,United Kingdom,936
+1/11/2020,R5,Amortization,USA,"238,134"
+1/11/2020,R5,CAPEX,USA,"57,796"
+1/11/2020,R5,Depreciation,USA,"32,893"
+1/11/2020,R5,Employee Performance,USA,"1,175"
+1/11/2020,R5,External Labor,Puerto Rico,"5,815"
+1/11/2020,R5,External Labor,USA,"137,320"
+1/11/2020,R5,Hardware,Puerto Rico,"2,280"
+1/11/2020,R5,Hardware Maintenance,Puerto Rico,377
+1/11/2020,R5,Internal Labor,Puerto Rico,"8,105"
+1/11/2020,R5,Internal Labor,USA,"223,242"
+1/11/2020,R5,Other,Puerto Rico,46
+1/11/2020,R5,Other,USA,"1,441"
+1/11/2020,R5,Outbound Allocations,USA,"12,718"
+1/11/2020,R5,Project Expenses,USA,"143,463"
+1/11/2020,R5,Software,USA,"16,537"
+1/11/2020,R5,Software Maintenance,USA,"-27,623"
+1/11/2020,R5,Supplies,Puerto Rico,12
+1/11/2020,R5,Supplies,USA,461
+1/11/2020,R5,Taxes,USA,"3,003"
+1/11/2020,R5,Telecomm,Puerto Rico,94
+1/11/2020,R5,Telecomm,USA,"1,550"
+1/11/2020,R5,Training,Puerto Rico,117
+1/11/2020,R5,Training,USA,"2,240"
+1/11/2020,R5,Travel,Puerto Rico,282
+1/11/2020,R5,Travel,USA,"8,813"
+1/11/2020,R5,Vehicles,Puerto Rico,244
+1/11/2020,Security & Risk Management,Employee Performance,USA,319
+1/11/2020,Security & Risk Management,External Labor,USA,"4,047"
+1/11/2020,Security & Risk Management,Internal Labor,USA,"61,261"
+1/11/2020,Security & Risk Management,Other,USA,213
+1/11/2020,Security & Risk Management,Software,USA,6
+1/11/2020,Security & Risk Management,Software Maintenance,USA,4
+1/11/2020,Security & Risk Management,Supplies,USA,912
+1/11/2020,Security & Risk Management,Taxes,USA,22
+1/11/2020,Security & Risk Management,Telecomm,USA,317
+1/11/2020,Security & Risk Management,Training,USA,810
+1/11/2020,Security & Risk Management,Travel,USA,"1,426"
+1/11/2020,Six Sigma,Employee Performance,USA,13
+1/11/2020,Six Sigma,Internal Labor,USA,"23,886"
+1/11/2020,Six Sigma,Other,USA,34
+1/11/2020,Six Sigma,Software,USA,11
+1/11/2020,Six Sigma,Software Maintenance,USA,8
+1/11/2020,Six Sigma,Supplies,USA,46
+1/11/2020,Six Sigma,Telecomm,USA,223
+1/11/2020,Six Sigma,Travel,USA,564
+1/11/2020,SSO,Depreciation,USA,"1,742"
+1/11/2020,SSO,Employee Performance,USA,"1,011"
+1/11/2020,SSO,External Labor,USA,"214,457"
+1/11/2020,SSO,Internal Labor,USA,"74,733"
+1/11/2020,SSO,Other,USA,77
+1/11/2020,SSO,Software,USA,"13,819"
+1/11/2020,SSO,Software Maintenance,USA,"21,888"
+1/11/2020,SSO,Supplies,USA,223
+1/11/2020,SSO,Taxes,USA,52
+1/11/2020,SSO,Telecomm,USA,421
+1/11/2020,Vendor Management,Depreciation,USA,117
+1/11/2020,Vendor Management,Employee Performance,USA,89
+1/11/2020,Vendor Management,External Labor,USA,"242,785"
+1/11/2020,Vendor Management,Internal Labor,USA,"95,828"
+1/11/2020,Vendor Management,Other,USA,6
+1/11/2020,Vendor Management,Outbound Allocations,USA,"-2,067"
+1/11/2020,Vendor Management,Software,USA,171
+1/11/2020,Vendor Management,Software Maintenance,USA,73
+1/11/2020,Vendor Management,Taxes,USA,15
+1/11/2020,Vendor Management,Telecomm,USA,871
+1/11/2020,Vendor Management,Travel,USA,263
