@@ -8,6 +8,7 @@ This repository is your ultimate guide to mastering Power BI through 20 real-wor
   - [Table of Contents](#table-of-contents)
     - [Project 2: Foods and Beverages Sales Analysis Dashboard](#project-2-foods-and-beverages-sales-analysis-dashboard)
     - [Project 3: Budge vs. Actual Spending Analysis Dashboard](#project-3-budge-vs-actual-spending-analysis-dashboard)
+    - [Project 4: HR Analytics Dashboard: Attrition Analysis](#project-4-hr-analytics-dashboard-attrition-analysis)
   
 ### Project 2: Foods and Beverages Sales Analysis Dashboard
 
@@ -19,3 +20,8 @@ This repository is your ultimate guide to mastering Power BI through 20 real-wor
 [Budge vs. Actual Spending Analysis Dashboard](./Project3/Budget%20vs.%20Actual%20Spending%20Analysis%20Dashboard.pbix)
 ![Budge vs. Actual Spending Analysis Dashboard](./Project3/Budget%20vs.%20Actual%20Spending%20Analysis%20Dashboard.png)
 
+### Project 4: HR Analytics Dashboard: Attrition Analysis
+
+[HR Analytics Dashboard: Attrition Analysis](./Project4/Attrition%20Analysis%20Dashboard.pbix)
+![HR Analytics Dashboard: Attrition Analysis](./Project4/Attrition%20Analysis%20Dashboard.png)
+```
