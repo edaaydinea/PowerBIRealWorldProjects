@@ -10,6 +10,8 @@ This repository is your ultimate guide to mastering Power BI through 20 real-wor
     - [Project 3: Budge vs. Actual Spending Analysis Dashboard](#project-3-budge-vs-actual-spending-analysis-dashboard)
     - [Project 4: HR Analytics Dashboard: Attrition Analysis](#project-4-hr-analytics-dashboard-attrition-analysis)
     - [Project 5: E-commerce Super Store Sales Analysis](#project-5-e-commerce-super-store-sales-analysis)
+    - [Project 7: Global Sales Data Analysis](#project-7-global-sales-data-analysis)
+    - [Project 8: Boston Housing Dashboard](#project-8-boston-housing-dashboard)
   
 ### Project 2: Foods and Beverages Sales Analysis Dashboard
 
@@ -30,3 +32,13 @@ This repository is your ultimate guide to mastering Power BI through 20 real-wor
 
 [E-commerce Super Store Sales Analysis](./Project5/E-commerce%20Super%20Store%20Sales%20Analysis.pbix)
 ![E-commerce Super Store Sales Analysis](./Project5/E_commerceSuperStoreSalesAnalysis.png)
+
+### Project 7: Global Sales Data Analysis
+
+[Global Sales Data Analysis](./Project7/GlobalSalesDataAnalysis.pbix)
+![Global Sales Data Analysis](./Project7/GlobalSalesDataAnalysis.png)
+
+### Project 8: Boston Housing Dashboard
+
+[Boston Housing Dashboard](./Project8/BostonHousingDashboard.pbix)
+![Boston Housing Dashboard](./Project8/BostonHousingDashboard.png)
