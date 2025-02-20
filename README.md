@@ -12,6 +12,7 @@ This repository is your ultimate guide to mastering Power BI through 20 real-wor
     - [Project 5: E-commerce Super Store Sales Analysis](#project-5-e-commerce-super-store-sales-analysis)
     - [Project 7: Global Sales Data Analysis](#project-7-global-sales-data-analysis)
     - [Project 8: Boston Housing Dashboard](#project-8-boston-housing-dashboard)
+    - [Crime in Los Angeles: Yearly City Analysis](#crime-in-los-angeles-yearly-city-analysis)
   
 ### Project 2: Foods and Beverages Sales Analysis Dashboard
 
@@ -42,3 +43,8 @@ This repository is your ultimate guide to mastering Power BI through 20 real-wor
 
 [Boston Housing Dashboard](./Project8/BostonHousingDashboard.pbix)
 ![Boston Housing Dashboard](./Project8/BostonHousingDashboard.png)
+
+### Crime in Los Angeles: Yearly City Analysis
+
+[Crime in Los Angeles | Yearly City Analysis](./Project9/Crime%20in%20Los%20Angles%20-%20Yearly%20City%20Analysis.pbix)
+![Crime in Los Angeles | Yearly City Analysis](./Project9/CrimeinLosAngeles.png)
