@@ -14,6 +14,8 @@ This repository is your ultimate guide to mastering Power BI through 20 real-wor
     - [Project 8: Boston Housing Dashboard](#project-8-boston-housing-dashboard)
     - [Crime in Los Angeles: Yearly City Analysis](#crime-in-los-angeles-yearly-city-analysis)
     - [IMDB Movie Comparison By Years analysis](#imdb-movie-comparison-by-years-analysis)
+    - [Hotel Reservation Dashboard: Global Hotel Business](#hotel-reservation-dashboard-global-hotel-business)
+    - [Toys Sales Analysis Dashboard](#toys-sales-analysis-dashboard)
   
 ### Project 2: Foods and Beverages Sales Analysis Dashboard
 
@@ -54,3 +56,13 @@ This repository is your ultimate guide to mastering Power BI through 20 real-wor
 
 [IMDB Movie Comparison By Years](./Project10/IMDBMovieComparisonByYearsDashboard.pbix)
 ![IMDB Movie Comparison By Years](./Project10/IMDBMovieComparisonByYearsDashboard.png)
+
+### Hotel Reservation Dashboard: Global Hotel Business
+
+[Hotel Reservation Dashboard: Global Hotel Business](./Project11/HotelReservationDashboard.pbix)
+![Hotel Reservation Dashboard: Global Hotel Business](./Project11/HotelReservationDashboard.png)
+
+### Toys Sales Analysis Dashboard
+
+[Toy Sales Dashboard](./Project12/ToySalesAnalysisDashboard.pbix)
+![Toy Sales Dashboard](./Project12/ToySalesAnalysisDashboard.png)
