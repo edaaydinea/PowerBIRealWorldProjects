@@ -12,10 +12,11 @@ This repository is your ultimate guide to mastering Power BI through 20 real-wor
     - [Project 5: E-commerce Super Store Sales Analysis](#project-5-e-commerce-super-store-sales-analysis)
     - [Project 7: Global Sales Data Analysis](#project-7-global-sales-data-analysis)
     - [Project 8: Boston Housing Dashboard](#project-8-boston-housing-dashboard)
-    - [Crime in Los Angeles: Yearly City Analysis](#crime-in-los-angeles-yearly-city-analysis)
-    - [IMDB Movie Comparison By Years analysis](#imdb-movie-comparison-by-years-analysis)
-    - [Hotel Reservation Dashboard: Global Hotel Business](#hotel-reservation-dashboard-global-hotel-business)
-    - [Toys Sales Analysis Dashboard](#toys-sales-analysis-dashboard)
+    - [Project 9: Crime in Los Angeles: Yearly City Analysis](#project-9-crime-in-los-angeles-yearly-city-analysis)
+    - [Project 10: IMDB Movie Comparison By Years analysis](#project-10-imdb-movie-comparison-by-years-analysis)
+    - [Project 11: Hotel Reservation Dashboard: Global Hotel Business](#project-11-hotel-reservation-dashboard-global-hotel-business)
+    - [Project 12: Toys Sales Analysis Dashboard](#project-12-toys-sales-analysis-dashboard)
+    - [Project 13: Netflix Stock Price Dashboard](#project-13-netflix-stock-price-dashboard)
   
 ### Project 2: Foods and Beverages Sales Analysis Dashboard
 
@@ -47,22 +48,27 @@ This repository is your ultimate guide to mastering Power BI through 20 real-wor
 [Boston Housing Dashboard](./Project8/BostonHousingDashboard.pbix)
 ![Boston Housing Dashboard](./Project8/BostonHousingDashboard.png)
 
-### Crime in Los Angeles: Yearly City Analysis
+### Project 9: Crime in Los Angeles: Yearly City Analysis
 
 [Crime in Los Angeles | Yearly City Analysis](./Project9/Crime%20in%20Los%20Angles%20-%20Yearly%20City%20Analysis.pbix)
 ![Crime in Los Angeles | Yearly City Analysis](./Project9/CrimeinLosAngeles.png)
 
-### IMDB Movie Comparison By Years analysis
+### Project 10: IMDB Movie Comparison By Years analysis
 
 [IMDB Movie Comparison By Years](./Project10/IMDBMovieComparisonByYearsDashboard.pbix)
 ![IMDB Movie Comparison By Years](./Project10/IMDBMovieComparisonByYearsDashboard.png)
 
-### Hotel Reservation Dashboard: Global Hotel Business
+### Project 11: Hotel Reservation Dashboard: Global Hotel Business
 
 [Hotel Reservation Dashboard: Global Hotel Business](./Project11/HotelReservationDashboard.pbix)
 ![Hotel Reservation Dashboard: Global Hotel Business](./Project11/HotelReservationDashboard.png)
 
-### Toys Sales Analysis Dashboard
+### Project 12: Toys Sales Analysis Dashboard
 
 [Toy Sales Dashboard](./Project12/ToySalesAnalysisDashboard.pbix)
 ![Toy Sales Dashboard](./Project12/ToySalesAnalysisDashboard.png)
+
+### Project 13: Netflix Stock Price Dashboard
+
+[Netflix Stock Price Dashboard](./Project13/NetflixStockPriceDashboard.pbix)
+![Netflix Stock Price Dashboard](./Project13/NetflixStockPriceDashboard.png)
