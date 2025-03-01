@@ -17,6 +17,7 @@ This repository is your ultimate guide to mastering Power BI through 20 real-wor
     - [Project 11: Hotel Reservation Dashboard: Global Hotel Business](#project-11-hotel-reservation-dashboard-global-hotel-business)
     - [Project 12: Toys Sales Analysis Dashboard](#project-12-toys-sales-analysis-dashboard)
     - [Project 13: Netflix Stock Price Dashboard](#project-13-netflix-stock-price-dashboard)
+    - [Project 14: Personal Finance Management Dashboard: Financial Insights](#project-14-personal-finance-management-dashboard-financial-insights)
   
 ### Project 2: Foods and Beverages Sales Analysis Dashboard
 
@@ -72,3 +73,8 @@ This repository is your ultimate guide to mastering Power BI through 20 real-wor
 
 [Netflix Stock Price Dashboard](./Project13/NetflixStockPriceDashboard.pbix)
 ![Netflix Stock Price Dashboard](./Project13/NetflixStockPriceDashboard.png)
+
+### Project 14: Personal Finance Management Dashboard: Financial Insights
+
+[Personal Finance Management Dashboard: Financial Insights](./Project14/PersonalFinanceManagementDashboard.pbix)
+![Personal Finance Management Dashboard: Financial Insights](./Project14/PersonalFinanceManagementDashboard.png)
