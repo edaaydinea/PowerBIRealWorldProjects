@@ -18,6 +18,7 @@ This repository is your ultimate guide to mastering Power BI through 20 real-wor
     - [Project 12: Toys Sales Analysis Dashboard](#project-12-toys-sales-analysis-dashboard)
     - [Project 13: Netflix Stock Price Dashboard](#project-13-netflix-stock-price-dashboard)
     - [Project 14: Personal Finance Management Dashboard: Financial Insights](#project-14-personal-finance-management-dashboard-financial-insights)
+    - [Project 15: A Deep Dive into Bank Customer Churn with Power BI](#project-15-a-deep-dive-into-bank-customer-churn-with-power-bi)
   
 ### Project 2: Foods and Beverages Sales Analysis Dashboard
 
@@ -78,3 +79,8 @@ This repository is your ultimate guide to mastering Power BI through 20 real-wor
 
 [Personal Finance Management Dashboard: Financial Insights](./Project14/PersonalFinanceManagementDashboard.pbix)
 ![Personal Finance Management Dashboard: Financial Insights](./Project14/PersonalFinanceManagementDashboard.png)
+
+### Project 15: A Deep Dive into Bank Customer Churn with Power BI
+
+[Bank Churn Analysis](./Project15/BankChurnAnalysis.pbix)
+![Bank Churn Analysis](./Project15/BankChurnAnalysis.png)
