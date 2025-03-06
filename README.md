@@ -19,6 +19,7 @@ This repository is your ultimate guide to mastering Power BI through 20 real-wor
     - [Project 13: Netflix Stock Price Dashboard](#project-13-netflix-stock-price-dashboard)
     - [Project 14: Personal Finance Management Dashboard: Financial Insights](#project-14-personal-finance-management-dashboard-financial-insights)
     - [Project 15: A Deep Dive into Bank Customer Churn with Power BI](#project-15-a-deep-dive-into-bank-customer-churn-with-power-bi)
+    - [Project 16: Global Data Professionals Benchmarking Dashboard](#project-16-global-data-professionals-benchmarking-dashboard)
   
 ### Project 2: Foods and Beverages Sales Analysis Dashboard
 
@@ -84,3 +85,8 @@ This repository is your ultimate guide to mastering Power BI through 20 real-wor
 
 [Bank Churn Analysis](./Project15/BankChurnAnalysis.pbix)
 ![Bank Churn Analysis](./Project15/BankChurnAnalysis.png)
+
+### Project 16: Global Data Professionals Benchmarking Dashboard
+
+[Global Data Professionals Benchmarking Dashboard](./Project16/GlobalDataProfessionalsBenchmarkingDashboard.pbix)
+![Global Data Professionals Benchmarking Dashboard](./Project16/GlobalDataProfessionalsBenchmarkingDashboard.png)
