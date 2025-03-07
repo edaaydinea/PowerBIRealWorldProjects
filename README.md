@@ -20,7 +20,7 @@ This repository is your ultimate guide to mastering Power BI through 20 real-wor
     - [Project 14: Personal Finance Management Dashboard: Financial Insights](#project-14-personal-finance-management-dashboard-financial-insights)
     - [Project 15: A Deep Dive into Bank Customer Churn with Power BI](#project-15-a-deep-dive-into-bank-customer-churn-with-power-bi)
     - [Project 16: Global Data Professionals Benchmarking Dashboard](#project-16-global-data-professionals-benchmarking-dashboard)
-    - [Projt](#projt)
+    - [Project 17: Beijing Air Quality Dashboard](#project-17-beijing-air-quality-dashboard)
   
 ### Project 2: Foods and Beverages Sales Analysis Dashboard
 
