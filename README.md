@@ -21,6 +21,7 @@ This repository is your ultimate guide to mastering Power BI through 20 real-wor
     - [Project 15: A Deep Dive into Bank Customer Churn with Power BI](#project-15-a-deep-dive-into-bank-customer-churn-with-power-bi)
     - [Project 16: Global Data Professionals Benchmarking Dashboard](#project-16-global-data-professionals-benchmarking-dashboard)
     - [Project 17: Beijing Air Quality Dashboard](#project-17-beijing-air-quality-dashboard)
+    - [Project 18: Real Estate in Daegu | Apartment Pros and Cons Analysis](#project-18-real-estate-in-daegu--apartment-pros-and-cons-analysis)
   
 ### Project 2: Foods and Beverages Sales Analysis Dashboard
 
@@ -96,3 +97,8 @@ This repository is your ultimate guide to mastering Power BI through 20 real-wor
 
 [Beijing Air Quality Dashboard](./Project17/BeijingAirQuality.pbix)
 ![Beijing Air Quality Dashboard](./Project17/BeijingAirQuality.png)
+
+### Project 18: Real Estate in Daegu | Apartment Pros and Cons Analysis
+
+[Real Estate in Daegu | Apartment Pros and Cons Analysis](./Project18/RealEstateinDaegu.pbix)
+![Real Estate in Daegu | Apartment Pros and Cons Analysis](./Project18/RealEstateinDaegu.png)
