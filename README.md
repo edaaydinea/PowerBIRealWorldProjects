@@ -22,6 +22,7 @@ This repository is your ultimate guide to mastering Power BI through 20 real-wor
     - [Project 16: Global Data Professionals Benchmarking Dashboard](#project-16-global-data-professionals-benchmarking-dashboard)
     - [Project 17: Beijing Air Quality Dashboard](#project-17-beijing-air-quality-dashboard)
     - [Project 18: Real Estate in Daegu | Apartment Pros and Cons Analysis](#project-18-real-estate-in-daegu--apartment-pros-and-cons-analysis)
+    - [Project 19: Super Market Sales Analysis](#project-19-super-market-sales-analysis)
   
 ### Project 2: Foods and Beverages Sales Analysis Dashboard
 
@@ -102,3 +103,9 @@ This repository is your ultimate guide to mastering Power BI through 20 real-wor
 
 [Real Estate in Daegu | Apartment Pros and Cons Analysis](./Project18/RealEstateinDaegu.pbix)
 ![Real Estate in Daegu | Apartment Pros and Cons Analysis](./Project18/RealEstateinDaegu.png)
+
+### Project 19: Super Market Sales Analysis
+
+[Super Market Sales Analysis](./Project19/SuperMarketSalesAnalysis.pbix)
+![Super Market Sales Analysis Part 1](./Project19/SuperMarketSalesAnalysisPart1.png)
+![Super Market Sales Analysis Part 2](./Project19/SuperMarketSalesAnalysisPart2.png)
