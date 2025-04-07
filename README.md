@@ -23,6 +23,7 @@ This repository is your ultimate guide to mastering Power BI through 20 real-wor
     - [Project 17: Beijing Air Quality Dashboard](#project-17-beijing-air-quality-dashboard)
     - [Project 18: Real Estate in Daegu | Apartment Pros and Cons Analysis](#project-18-real-estate-in-daegu--apartment-pros-and-cons-analysis)
     - [Project 19: Super Market Sales Analysis](#project-19-super-market-sales-analysis)
+    - [Project 20: Global COVID-19 Vaccination Progress](#project-20-global-covid-19-vaccination-progress)
   
 ### Project 2: Foods and Beverages Sales Analysis Dashboard
 
@@ -109,3 +110,9 @@ This repository is your ultimate guide to mastering Power BI through 20 real-wor
 [Super Market Sales Analysis](./Project19/SuperMarketSalesAnalysis.pbix)
 ![Super Market Sales Analysis Part 1](./Project19/SuperMarketSalesAnalysisPart1.png)
 ![Super Market Sales Analysis Part 2](./Project19/SuperMarketSalesAnalysisPart2.png)
+
+
+### Project 20: Global COVID-19 Vaccination Progress
+
+[Global COVID-19 Vaccination Progress](./Project20/Global_COVID19_Vaccination_Progress.pbix)
+![Global COVID-19 Vaccination Progress](./Project20/Global_COVID19_Vaccination_Progress.png)
