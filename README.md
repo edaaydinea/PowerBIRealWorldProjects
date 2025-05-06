@@ -24,6 +24,7 @@ This repository is your ultimate guide to mastering Power BI through 20 real-wor
     - [Project 18: Real Estate in Daegu | Apartment Pros and Cons Analysis](#project-18-real-estate-in-daegu--apartment-pros-and-cons-analysis)
     - [Project 19: Super Market Sales Analysis](#project-19-super-market-sales-analysis)
     - [Project 20: Global COVID-19 Vaccination Progress](#project-20-global-covid-19-vaccination-progress)
+    - [Project 21: Credit Card Defaulters Analysis](#project-21-credit-card-defaulters-analysis)
   
 ### Project 2: Foods and Beverages Sales Analysis Dashboard
 
@@ -116,3 +117,8 @@ This repository is your ultimate guide to mastering Power BI through 20 real-wor
 
 [Global COVID-19 Vaccination Progress](./Project20/Global_COVID19_Vaccination_Progress.pbix)
 ![Global COVID-19 Vaccination Progress](./Project20/Global_COVID19_Vaccination_Progress.png)
+
+### Project 21: Credit Card Defaulters Analysis
+
+[Credit Card Defaulters Analysis](./Project21/CreditCardDefaultersAnalysis.pbix)
+![Credit Card Defaulters Analysis](./Project21/CreditCardDefaultersAnalysis.png)
